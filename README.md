@@ -7,7 +7,7 @@ A Wayland compositor designed for both desktop and mobile use. Built on [wlroots
 ## Design Philosophy
 
 - **One shell, two modes.** Desktop and mobile share the same taskbar, homebar, and overview. The primary difference is how you invoke them (mouse vs touch).
-- **Fluid, not garish.** Frosted-glass navy UI, diagonal gradient backgrounds (#07527F → #00265C), subtle animations.
+- **Fluid, not garish.** Frosted-glass navy UI, diagonal gradient backgrounds, subtle animations.
 - **Maximise by default.** Applications are full-screen unless explicitly tiled. The taskbar floats at the bottom and hides behind running apps.
 
 ---
