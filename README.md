@@ -63,7 +63,7 @@ sudo dnf install wlroots-devel wayland-devel wayland-protocols-devel \
 ## Building
 
 ```bash
-git clone <repo> parametric
+git clone https://github.com/Ammeters/parametric
 cd parametric
 chmod +x build.sh
 ./build.sh build
