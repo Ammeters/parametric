@@ -17,7 +17,6 @@ A Wayland compositor designed for both desktop and mobile use. Built on [wlroots
 | Feature | Notes |
 |---|---|
 | wlroots 0.18 scene-graph compositor | Full XDG shell, layer-shell, popups |
-| Diagonal gradient background | `#07527F` top-left → `#00265C` bottom-right, with vignette |
 | Floating frosted-glass taskbar | Floats above bottom edge with gap; expands to 2 rows in overview |
 | Always-visible dock mode | Taskbar spans full width, bottom corners flush |
 | Homebar (white pill) | Appears on mouse-near-bottom; animated fade-in/out |
